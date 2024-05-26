@@ -10,11 +10,8 @@ Emacs.
 zero-input-panel-posframe is an optional zero-input panel built using the
 [[https://github.com/tumashu/posframe][posframe]] package. It works on X and Wayland. It doesn't work on tty.
 
-This branch is created for one-file ELPA release. For more information, please
-check [[https://gitlab.emacsos.com/sylecn/zero-el/blob/master/README][README in master branch]]. [[https://gitlab.emacsos.com/sylecn/zero-el/blob/master/ChangeLog][ChangeLog]] is also in master branch.
-
-To check difference between zero-input panels, see README in master branch on
-"Which panel should I use".
+For more information on zero-input and the differences between zero-input
+panels, please check [[https://gitlab.emacsos.com/sylecn/zero-el/blob/master/README][README in zero-input master branch]].
 
 * introduce to zero-input
 https://blog.emacsos.com/zero-el.html
